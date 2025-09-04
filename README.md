@@ -112,6 +112,6 @@
 
 ###
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=085868395856&unique={true|1|on|yes})
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=085868395856&count={1}&width={500}&unique={true|1|on|yes})
 
 ###
