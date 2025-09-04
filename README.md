@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Brian from Central Java, Indonesia<br><br>- 📚 I'm currently learning python<br>- ⚡ In my free time I like to watch movie, playing games, or learn</p>
+<p align="left">I'm Brian from Central Java, Indonesia and I'm a backend engineer<br><br>- 📚 I'm currently learning python<br>- ⚡ In my free time I like to watch movie, playing games, or learn</p>
 
 ###
 
@@ -66,9 +66,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="14" />
-</div>
-
-<div align="left">
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
@@ -114,10 +112,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Gokyuzu Ust">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Gokyuzu%20Ust&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=085868395856&unique={true|1|on|yes})
 
 ###
