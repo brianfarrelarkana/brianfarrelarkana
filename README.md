@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Brian from Central Java, Indonesia and I'm a junior backend engineer<br><br>- 📚 I'm currently learning python<br>- ⚡ In my free time I like to watch movie, playing games, or learn</p>
+<p align="left">I'm Brian from Central Java, Indonesia and I'm a junior backend developer<br><br>- 📚 I'm currently learning python<br>- ⚡ In my free time I like to watch movie, playing games, or learn</p>
 
 ###
 
